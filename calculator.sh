@@ -11,3 +11,8 @@ y=3-2
 #Division function
 
 z=9/3
+
+#Multiple function
+
+a=8*9
+
